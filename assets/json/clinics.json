@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Clínica ABC",
+      "address": "Rua das Flores, 123",
+      "phone": "(11) 1234-5678",
+      "latitude": -23.550520,
+      "longitude": -46.633309,
+      "image": ""
+    },
+    {
+      "name": "Clínica XYZ",
+      "address": "Avenida Brasil, 456",
+      "phone": "(11) 9876-5432",
+      "latitude": -23.548910,
+      "longitude": -46.637784,
+      "image": ""
+    },
+    {
+      "name": "Clínica da Saúde",
+      "address": "Rua da Paz, 789",
+      "phone": "(11) 2345-6789",
+      "latitude": -23.552232,
+      "longitude": -46.629934,
+      "image": ""
+    }
+  ]
